@@ -1,0 +1,28 @@
+
+char * notes[25] = {
+"Ok,  Drawing a line in my memory banks.",
+"Reading from /dev/null - 23 times.",
+"Lets do a bunch of no-op's.  Thereby deciding the fate of millions of electrons!",
+"Sending \"Hello World\" to /dev/random.",
+"Calling Pizza Hut,  ordering Pizza to the south pole.",
+"Be very very quiet. It will help.",
+"Entangling quantum instances via a prescribed ritual.",
+"Wondering what is above the / directory...",
+"OK.  You should be getting slight improvements now...",
+"Should win about 20% now....",
+"Should win about 50% now...",
+"Should win about 60% now...",
+"Should win about 70% now...",
+"Should win about 80% now...",
+"I got it. Synergy.  Its working.   I should be able to keep it up for 7 cycles. After that, I don't know...\n",
+"It must be this one-",
+"It must be this one-",
+"It must be this one-",
+"It must be this one-",
+"It must be this one-",
+"It must be this one- (one more try)",
+"OK,  from here on out,  the tie is broken.  I cannot reilably do that again with this game.",
+"Don't beleive me -  try it ",
+"See.  You gonna loose ",
+}
+"Ahhhh, it didn't work.  You are not playing the game that I can find."
